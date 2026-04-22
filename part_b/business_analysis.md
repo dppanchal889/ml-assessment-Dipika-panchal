@@ -80,9 +80,6 @@ This is better because stores in different areas behave differently.
 
 So separate models will give better results.
 
-# B2. Data and EDA Strategy
-
-## (a)
 
 ______________________________________________________________________________________________
 
